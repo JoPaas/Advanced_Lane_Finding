@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/calibration.jpg "Undistorted"
+[image1]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/calibration.JPG "Undistorted"
 
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
@@ -49,13 +49,13 @@ I then used the output `objpoints` and `imgpoints` to compute the camera calibra
 ### Pipeline (single images)
 [//]: # (Image References)
 
-[image2]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/undistort.jpg "Road Transformed"
+[image2]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/undistort.JPG "Road Transformed"
 [image3]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/binaryMask.JPG "Binary Example"
-[image4]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/warped_straight_lines.jpg "Warp Example"
-[image5]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/hist.jpg "Histogram"
-[image6]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/polyfit1.jpg "Fit Visual 1"
-[image7]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/polyfit2.jpg "Fit Visual 2"
-[image8]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/output.jpg "Output"
+[image4]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/warped_straight_lines.JPG "Warp Example"
+[image5]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/hist.JPG "Histogram"
+[image6]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/polyfit1.JPG "Fit Visual 1"
+[image7]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/polyfit2.JPG "Fit Visual 2"
+[image8]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/output.JPG "Output"
 
 #### 1. Provide an example of a distortion-corrected image.
 
