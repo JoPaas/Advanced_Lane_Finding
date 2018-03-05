@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./output_images/calibration.jpg "Undistorted"
+[image1]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/calibration.jpg "Undistorted"
 
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
@@ -49,13 +49,13 @@ I then used the output `objpoints` and `imgpoints` to compute the camera calibra
 ### Pipeline (single images)
 [//]: # (Image References)
 
-[image2]: ./output_images/undistort.jpg "Road Transformed"
-[image3]: ./output_images/binaryMask.jpg "Binary Example"
-[image4]: ./examples/warped_straight_lines.jpg "Warp Example"
-[image5]: ./output_images/hist.jpg "Histogram"
-[image6]: ./output_images/polyfit1.jpg "Fit Visual 1"
-[image7]: ./output_images/polyfit2.jpg "Fit Visual 2"
-[image8]: ./output_images/output.jpg "Output"
+[image2]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/undistort.jpg "Road Transformed"
+[image3]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/binaryMask.JPG "Binary Example"
+[image4]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/warped_straight_lines.jpg "Warp Example"
+[image5]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/hist.jpg "Histogram"
+[image6]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/polyfit1.jpg "Fit Visual 1"
+[image7]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/polyfit2.jpg "Fit Visual 2"
+[image8]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_images/output.jpg "Output"
 
 #### 1. Provide an example of a distortion-corrected image.
 
@@ -119,11 +119,11 @@ I implemented this step in the function `draw_lane()` in the 5th code cell. the 
 
 [//]: # (Image References)
 
-[video1]: ./output_videos/project_video_3.mp4 "Video"
+[video1]: https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_videos/project_video_3.mp4 "Video"
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](./output_videos/project_video_3.mp4)
+Here's a [link to my video result](https://github.com/Nervehurter/Advanced_Lane_Finding/blob/master/output_videos/project_video_3.mp4)
 
 ---
 
